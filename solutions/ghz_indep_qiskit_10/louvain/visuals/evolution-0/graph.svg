@@ -1,0 +1,60 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 20 20 34 36"/>
+<path stroke-width="1" stroke="black" d="M 338 308 363 320"/>
+<path stroke-width="1" stroke="black" d="M 338 308 360 275"/>
+<path stroke-width="1" stroke="black" d="M 357 287 360 275"/>
+<path stroke-width="1" stroke="black" d="M 360 275 338 308"/>
+<path stroke-width="1" stroke="black" d="M 360 275 357 287"/>
+<path stroke-width="1" stroke="black" d="M 360 275 361 227"/>
+<path stroke-width="1" stroke="black" d="M 342 227 361 227"/>
+<path stroke-width="1" stroke="black" d="M 361 227 360 275"/>
+<path stroke-width="1" stroke="black" d="M 361 227 342 227"/>
+<path stroke-width="1" stroke="black" d="M 361 227 392 182"/>
+<path stroke-width="1" stroke="black" d="M 410 183 392 182"/>
+<path stroke-width="1" stroke="black" d="M 392 182 361 227"/>
+<path stroke-width="1" stroke="black" d="M 392 182 410 183"/>
+<path stroke-width="1" stroke="black" d="M 392 182 410 137"/>
+<path stroke-width="1" stroke="black" d="M 420 118 410 137"/>
+<path stroke-width="1" stroke="black" d="M 338 308 261 277"/>
+<path stroke-width="1" stroke="black" d="M 363 320 338 308"/>
+<path stroke-width="1" stroke="black" d="M 261 277 338 308"/>
+<path stroke-width="1" stroke="black" d="M 261 277 259 292"/>
+<path stroke-width="1" stroke="black" d="M 34 36 20 20"/>
+<path stroke-width="1" stroke="black" d="M 34 36 75 87"/>
+<path stroke-width="1" stroke="black" d="M 71 75 75 87"/>
+<path stroke-width="1" stroke="black" d="M 75 87 34 36"/>
+<path stroke-width="1" stroke="black" d="M 75 87 71 75"/>
+<path stroke-width="1" stroke="black" d="M 75 87 130 153"/>
+<path stroke-width="1" stroke="black" d="M 112 155 130 153"/>
+<path stroke-width="1" stroke="black" d="M 410 137 392 182"/>
+<path stroke-width="1" stroke="black" d="M 130 153 75 87"/>
+<path stroke-width="1" stroke="black" d="M 130 153 188 219"/>
+<path stroke-width="1" stroke="black" d="M 175 230 188 219"/>
+<path stroke-width="1" stroke="black" d="M 188 219 130 153"/>
+<path stroke-width="1" stroke="black" d="M 188 219 175 230"/>
+<path stroke-width="1" stroke="black" d="M 188 219 261 277"/>
+<path stroke-width="1" stroke="black" d="M 259 292 261 277"/>
+<path stroke-width="1" stroke="black" d="M 261 277 188 219"/>
+<path stroke-width="1" stroke="black" d="M 130 153 112 155"/>
+<path stroke-width="1" stroke="black" d="M 410 137 420 118"/>
+<circle cx="20" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="34" cy="36" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="71" cy="75" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="75" cy="87" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="112" cy="155" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="130" cy="153" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="175" cy="230" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="188" cy="219" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="259" cy="292" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="261" cy="277" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="363" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="338" cy="308" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="357" cy="287" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="360" cy="275" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="342" cy="227" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="361" cy="227" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="410" cy="183" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="392" cy="182" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="118" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="410" cy="137" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+</svg>

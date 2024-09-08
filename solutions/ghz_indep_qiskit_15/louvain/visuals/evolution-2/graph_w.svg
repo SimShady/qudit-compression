@@ -1,0 +1,12 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 420 320 303 232"/>
+<path stroke-width="1" stroke="black" d="M 303 232 420 320"/>
+<path stroke-width="1" stroke="black" d="M 303 232 144 113"/>
+<path stroke-width="1" stroke="black" d="M 20 20 144 113"/>
+<path stroke-width="1" stroke="black" d="M 144 113 303 232"/>
+<path stroke-width="1" stroke="black" d="M 144 113 20 20"/>
+<circle cx="420" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="303" cy="232" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="144" cy="113" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+</svg>

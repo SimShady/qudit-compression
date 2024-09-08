@@ -1,0 +1,60 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 85 320 66 301"/>
+<path stroke-width="1" stroke="black" d="M 206 41 205 20"/>
+<path stroke-width="1" stroke="black" d="M 206 41 288 78"/>
+<path stroke-width="1" stroke="black" d="M 300 68 288 78"/>
+<path stroke-width="1" stroke="black" d="M 288 78 206 41"/>
+<path stroke-width="1" stroke="black" d="M 288 78 300 68"/>
+<path stroke-width="1" stroke="black" d="M 288 78 353 132"/>
+<path stroke-width="1" stroke="black" d="M 374 129 353 132"/>
+<path stroke-width="1" stroke="black" d="M 353 132 288 78"/>
+<path stroke-width="1" stroke="black" d="M 353 132 374 129"/>
+<path stroke-width="1" stroke="black" d="M 353 132 401 195"/>
+<path stroke-width="1" stroke="black" d="M 420 199 401 195"/>
+<path stroke-width="1" stroke="black" d="M 401 195 353 132"/>
+<path stroke-width="1" stroke="black" d="M 401 195 420 199"/>
+<path stroke-width="1" stroke="black" d="M 401 195 399 256"/>
+<path stroke-width="1" stroke="black" d="M 395 278 399 256"/>
+<path stroke-width="1" stroke="black" d="M 206 41 121 43"/>
+<path stroke-width="1" stroke="black" d="M 205 20 206 41"/>
+<path stroke-width="1" stroke="black" d="M 121 43 206 41"/>
+<path stroke-width="1" stroke="black" d="M 121 43 109 26"/>
+<path stroke-width="1" stroke="black" d="M 66 301 85 320"/>
+<path stroke-width="1" stroke="black" d="M 66 301 36 253"/>
+<path stroke-width="1" stroke="black" d="M 25 263 36 253"/>
+<path stroke-width="1" stroke="black" d="M 36 253 66 301"/>
+<path stroke-width="1" stroke="black" d="M 36 253 25 263"/>
+<path stroke-width="1" stroke="black" d="M 36 253 38 174"/>
+<path stroke-width="1" stroke="black" d="M 20 172 38 174"/>
+<path stroke-width="1" stroke="black" d="M 399 256 401 195"/>
+<path stroke-width="1" stroke="black" d="M 38 174 36 253"/>
+<path stroke-width="1" stroke="black" d="M 38 174 64 100"/>
+<path stroke-width="1" stroke="black" d="M 48 88 64 100"/>
+<path stroke-width="1" stroke="black" d="M 64 100 38 174"/>
+<path stroke-width="1" stroke="black" d="M 64 100 48 88"/>
+<path stroke-width="1" stroke="black" d="M 64 100 121 43"/>
+<path stroke-width="1" stroke="black" d="M 109 26 121 43"/>
+<path stroke-width="1" stroke="black" d="M 121 43 64 100"/>
+<path stroke-width="1" stroke="black" d="M 38 174 20 172"/>
+<path stroke-width="1" stroke="black" d="M 399 256 395 278"/>
+<circle cx="85" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="66" cy="301" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="25" cy="263" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="36" cy="253" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="172" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="38" cy="174" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="48" cy="88" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="64" cy="100" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="109" cy="26" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="121" cy="43" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="205" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="206" cy="41" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="300" cy="68" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="288" cy="78" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="374" cy="129" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="353" cy="132" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="199" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="401" cy="195" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="395" cy="278" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="399" cy="256" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+</svg>

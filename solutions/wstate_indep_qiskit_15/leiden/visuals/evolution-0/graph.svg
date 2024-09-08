@@ -1,0 +1,90 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 38 212 50 228"/>
+<path stroke-width="1" stroke="black" d="M 24 61 38 67"/>
+<path stroke-width="1" stroke="black" d="M 38 67 33 119"/>
+<path stroke-width="1" stroke="black" d="M 38 67 24 61"/>
+<path stroke-width="1" stroke="black" d="M 38 67 87 39"/>
+<path stroke-width="1" stroke="black" d="M 76 35 87 39"/>
+<path stroke-width="1" stroke="black" d="M 87 39 38 67"/>
+<path stroke-width="1" stroke="black" d="M 87 39 76 35"/>
+<path stroke-width="1" stroke="black" d="M 87 39 157 34"/>
+<path stroke-width="1" stroke="black" d="M 148 27 157 34"/>
+<path stroke-width="1" stroke="black" d="M 157 34 87 39"/>
+<path stroke-width="1" stroke="black" d="M 157 34 148 27"/>
+<path stroke-width="1" stroke="black" d="M 157 34 229 36"/>
+<path stroke-width="1" stroke="black" d="M 236 29 229 36"/>
+<path stroke-width="1" stroke="black" d="M 229 36 157 34"/>
+<path stroke-width="1" stroke="black" d="M 229 36 236 29"/>
+<path stroke-width="1" stroke="black" d="M 229 36 302 39"/>
+<path stroke-width="1" stroke="black" d="M 312 41 302 39"/>
+<path stroke-width="1" stroke="black" d="M 302 39 229 36"/>
+<path stroke-width="1" stroke="black" d="M 302 39 312 41"/>
+<path stroke-width="1" stroke="black" d="M 302 39 363 39"/>
+<path stroke-width="1" stroke="black" d="M 376 45 363 39"/>
+<path stroke-width="1" stroke="black" d="M 363 39 302 39"/>
+<path stroke-width="1" stroke="black" d="M 363 39 376 45"/>
+<path stroke-width="1" stroke="black" d="M 363 39 406 25"/>
+<path stroke-width="1" stroke="black" d="M 420 20 406 25"/>
+<path stroke-width="1" stroke="black" d="M 33 119 38 67"/>
+<path stroke-width="1" stroke="black" d="M 33 119 20 119"/>
+<path stroke-width="1" stroke="black" d="M 33 119 76 167"/>
+<path stroke-width="1" stroke="black" d="M 20 119 33 119"/>
+<path stroke-width="1" stroke="black" d="M 50 228 38 212"/>
+<path stroke-width="1" stroke="black" d="M 50 228 80 266"/>
+<path stroke-width="1" stroke="black" d="M 71 266 80 266"/>
+<path stroke-width="1" stroke="black" d="M 80 266 50 228"/>
+<path stroke-width="1" stroke="black" d="M 80 266 71 266"/>
+<path stroke-width="1" stroke="black" d="M 80 266 122 300"/>
+<path stroke-width="1" stroke="black" d="M 124 312 122 300"/>
+<path stroke-width="1" stroke="black" d="M 122 300 80 266"/>
+<path stroke-width="1" stroke="black" d="M 122 300 124 312"/>
+<path stroke-width="1" stroke="black" d="M 122 300 163 307"/>
+<path stroke-width="1" stroke="black" d="M 174 320 163 307"/>
+<path stroke-width="1" stroke="black" d="M 163 307 122 300"/>
+<path stroke-width="1" stroke="black" d="M 406 25 363 39"/>
+<path stroke-width="1" stroke="black" d="M 163 307 174 320"/>
+<path stroke-width="1" stroke="black" d="M 175 265 163 262"/>
+<path stroke-width="1" stroke="black" d="M 163 262 163 307"/>
+<path stroke-width="1" stroke="black" d="M 163 262 175 265"/>
+<path stroke-width="1" stroke="black" d="M 163 262 121 213"/>
+<path stroke-width="1" stroke="black" d="M 131 215 121 213"/>
+<path stroke-width="1" stroke="black" d="M 121 213 163 262"/>
+<path stroke-width="1" stroke="black" d="M 121 213 131 215"/>
+<path stroke-width="1" stroke="black" d="M 121 213 76 167"/>
+<path stroke-width="1" stroke="black" d="M 67 163 76 167"/>
+<path stroke-width="1" stroke="black" d="M 76 167 121 213"/>
+<path stroke-width="1" stroke="black" d="M 76 167 67 163"/>
+<path stroke-width="1" stroke="black" d="M 76 167 33 119"/>
+<path stroke-width="1" stroke="black" d="M 163 307 163 262"/>
+<path stroke-width="1" stroke="black" d="M 406 25 420 20"/>
+<circle cx="38" cy="212" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="50" cy="228" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="71" cy="266" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="80" cy="266" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="124" cy="312" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="122" cy="300" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="174" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="163" cy="307" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="175" cy="265" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="163" cy="262" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="131" cy="215" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="121" cy="213" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="67" cy="163" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="76" cy="167" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="119" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="33" cy="119" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="24" cy="61" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="38" cy="67" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="76" cy="35" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="87" cy="39" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="148" cy="27" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="157" cy="34" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="236" cy="29" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="229" cy="36" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="312" cy="41" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="302" cy="39" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="376" cy="45" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="363" cy="39" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="406" cy="25" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+</svg>

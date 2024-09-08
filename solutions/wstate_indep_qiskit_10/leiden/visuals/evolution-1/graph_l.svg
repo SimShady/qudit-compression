@@ -1,0 +1,27 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 20 320 65 290"/>
+<path stroke-width="1" stroke="black" d="M 65 290 20 320"/>
+<path stroke-width="1" stroke="black" d="M 65 290 113 250"/>
+<path stroke-width="1" stroke="black" d="M 113 250 65 290"/>
+<path stroke-width="1" stroke="black" d="M 113 250 173 217"/>
+<path stroke-width="1" stroke="black" d="M 173 217 113 250"/>
+<path stroke-width="1" stroke="black" d="M 173 217 226 170"/>
+<path stroke-width="1" stroke="black" d="M 226 170 173 217"/>
+<path stroke-width="1" stroke="black" d="M 226 170 287 137"/>
+<path stroke-width="1" stroke="black" d="M 287 137 226 170"/>
+<path stroke-width="1" stroke="black" d="M 287 137 336 91"/>
+<path stroke-width="1" stroke="black" d="M 336 91 287 137"/>
+<path stroke-width="1" stroke="black" d="M 336 91 385 55"/>
+<path stroke-width="1" stroke="black" d="M 385 55 336 91"/>
+<path stroke-width="1" stroke="black" d="M 385 55 420 20"/>
+<path stroke-width="1" stroke="black" d="M 420 20 385 55"/>
+<circle cx="20" cy="320" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="65" cy="290" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="113" cy="250" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="173" cy="217" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="226" cy="170" r="7.0" style="fill:green;stroke:black;stroke-width:1.0"/>
+<circle cx="287" cy="137" r="7.0" style="fill:green;stroke:black;stroke-width:1.0"/>
+<circle cx="336" cy="91" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+<circle cx="385" cy="55" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="20" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+</svg>

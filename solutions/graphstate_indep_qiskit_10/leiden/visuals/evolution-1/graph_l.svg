@@ -1,0 +1,32 @@
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+<path stroke-width="1" stroke="black" d="M 355 44 376 20"/>
+<path stroke-width="1" stroke="black" d="M 20 299 39 299"/>
+<path stroke-width="1" stroke="black" d="M 20 299 29 320"/>
+<path stroke-width="1" stroke="black" d="M 29 320 39 299"/>
+<path stroke-width="1" stroke="black" d="M 29 320 20 299"/>
+<path stroke-width="1" stroke="black" d="M 405 25 420 52"/>
+<path stroke-width="1" stroke="black" d="M 405 25 376 20"/>
+<path stroke-width="1" stroke="black" d="M 357 77 385 96"/>
+<path stroke-width="1" stroke="black" d="M 357 77 355 44"/>
+<path stroke-width="1" stroke="black" d="M 385 96 357 77"/>
+<path stroke-width="1" stroke="black" d="M 385 96 408 85"/>
+<path stroke-width="1" stroke="black" d="M 408 85 385 96"/>
+<path stroke-width="1" stroke="black" d="M 408 85 420 52"/>
+<path stroke-width="1" stroke="black" d="M 420 52 405 25"/>
+<path stroke-width="1" stroke="black" d="M 420 52 408 85"/>
+<path stroke-width="1" stroke="black" d="M 376 20 405 25"/>
+<path stroke-width="1" stroke="black" d="M 376 20 355 44"/>
+<path stroke-width="1" stroke="black" d="M 355 44 357 77"/>
+<path stroke-width="1" stroke="black" d="M 39 299 29 320"/>
+<path stroke-width="1" stroke="black" d="M 39 299 20 299"/>
+<circle cx="355" cy="44" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+<circle cx="376" cy="20" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="52" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="408" cy="85" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="385" cy="96" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="357" cy="77" r="7.0" style="fill:blue;stroke:black;stroke-width:1.0"/>
+<circle cx="405" cy="25" r="7.0" style="fill:red;stroke:black;stroke-width:1.0"/>
+<circle cx="29" cy="320" r="7.0" style="fill:green;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="299" r="7.0" style="fill:green;stroke:black;stroke-width:1.0"/>
+<circle cx="39" cy="299" r="7.0" style="fill:green;stroke:black;stroke-width:1.0"/>
+</svg>

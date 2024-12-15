@@ -1,21 +1,19 @@
 <svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
-<path stroke-width="1" stroke="black" d="M 34 26 20 20"/>
-<path stroke-width="1" stroke="black" d="M 34 26 21 37"/>
-<path stroke-width="1" stroke="black" d="M 130 308 129 320"/>
-<path stroke-width="1" stroke="black" d="M 130 308 113 313"/>
-<path stroke-width="1" stroke="black" d="M 20 20 34 26"/>
-<path stroke-width="1" stroke="black" d="M 20 20 21 37"/>
-<path stroke-width="1" stroke="black" d="M 129 320 130 308"/>
-<path stroke-width="1" stroke="black" d="M 129 320 113 313"/>
-<path stroke-width="1" stroke="black" d="M 21 37 34 26"/>
-<path stroke-width="1" stroke="black" d="M 21 37 20 20"/>
-<path stroke-width="1" stroke="black" d="M 113 313 130 308"/>
-<path stroke-width="1" stroke="black" d="M 113 313 129 320"/>
-<circle cx="34" cy="26" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="130" cy="308" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="420" cy="73" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<path stroke-width="1" stroke="black" d="M 409 88 420 97"/>
+<path stroke-width="1" stroke="black" d="M 409 88 398 97"/>
+<path stroke-width="1" stroke="black" d="M 21 21 20 20"/>
+<path stroke-width="1" stroke="black" d="M 344 319 327 320"/>
+<path stroke-width="1" stroke="black" d="M 420 97 409 88"/>
+<path stroke-width="1" stroke="black" d="M 420 97 398 97"/>
+<path stroke-width="1" stroke="black" d="M 20 20 21 21"/>
+<path stroke-width="1" stroke="black" d="M 398 97 409 88"/>
+<path stroke-width="1" stroke="black" d="M 398 97 420 97"/>
+<path stroke-width="1" stroke="black" d="M 327 320 344 319"/>
+<circle cx="409" cy="88" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="21" cy="21" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="344" cy="319" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="97" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 <circle cx="20" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="129" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="21" cy="37" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="113" cy="313" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="398" cy="97" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="327" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 </svg>

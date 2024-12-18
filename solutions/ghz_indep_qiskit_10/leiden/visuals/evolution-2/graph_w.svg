@@ -1,9 +1,9 @@
 <svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
-<path stroke-width="1" stroke="black" d="M 20 320 198 167"/>
-<path stroke-width="1" stroke="black" d="M 420 20 198 167"/>
-<path stroke-width="1" stroke="black" d="M 198 167 20 320"/>
-<path stroke-width="1" stroke="black" d="M 198 167 420 20"/>
+<path stroke-width="1" stroke="black" d="M 20 320 192 116"/>
+<path stroke-width="1" stroke="black" d="M 420 20 192 116"/>
+<path stroke-width="1" stroke="black" d="M 192 116 20 320"/>
+<path stroke-width="1" stroke="black" d="M 192 116 420 20"/>
 <circle cx="20" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 <circle cx="420" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="198" cy="167" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="192" cy="116" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 </svg>

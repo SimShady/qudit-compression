@@ -1,60 +1,60 @@
 <svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
-<path stroke-width="20.0" stroke="black" d="M 178 143 173 128"/>
-<path stroke-width="20.0" stroke="black" d="M 62 172 46 176"/>
-<path stroke-width="0.5" stroke="black" d="M 62 172 135 236"/>
-<path stroke-width="20.0" stroke="black" d="M 121 249 135 236"/>
-<path stroke-width="0.5" stroke="black" d="M 135 236 62 172"/>
-<path stroke-width="20.0" stroke="black" d="M 135 236 121 249"/>
-<path stroke-width="0.5" stroke="black" d="M 135 236 216 285"/>
-<path stroke-width="20.0" stroke="black" d="M 217 302 216 285"/>
-<path stroke-width="0.5" stroke="black" d="M 216 285 135 236"/>
-<path stroke-width="20.0" stroke="black" d="M 216 285 217 302"/>
-<path stroke-width="0.5" stroke="black" d="M 216 285 314 305"/>
-<path stroke-width="20.0" stroke="black" d="M 323 320 314 305"/>
-<path stroke-width="0.5" stroke="black" d="M 314 305 216 285"/>
-<path stroke-width="20.0" stroke="black" d="M 314 305 323 320"/>
-<path stroke-width="0.5" stroke="black" d="M 314 305 388 290"/>
-<path stroke-width="8.857142857142858" stroke="black" d="M 420 282 388 290"/>
-<path stroke-width="0.5" stroke="black" d="M 62 172 35 98"/>
-<path stroke-width="20.0" stroke="black" d="M 46 176 62 172"/>
-<path stroke-width="0.5" stroke="black" d="M 35 98 62 172"/>
-<path stroke-width="20.0" stroke="black" d="M 35 98 20 88"/>
-<path stroke-width="20.0" stroke="black" d="M 173 128 178 143"/>
-<path stroke-width="0.5" stroke="black" d="M 173 128 160 80"/>
-<path stroke-width="20.0" stroke="black" d="M 180 81 160 80"/>
-<path stroke-width="0.5" stroke="black" d="M 160 80 173 128"/>
-<path stroke-width="20.0" stroke="black" d="M 160 80 180 81"/>
-<path stroke-width="0.5" stroke="black" d="M 160 80 118 35"/>
-<path stroke-width="20.0" stroke="black" d="M 126 20 118 35"/>
-<path stroke-width="0.5" stroke="black" d="M 388 290 314 305"/>
-<path stroke-width="0.5" stroke="black" d="M 118 35 160 80"/>
-<path stroke-width="0.5" stroke="black" d="M 118 35 50 38"/>
-<path stroke-width="20.0" stroke="black" d="M 34 20 50 38"/>
-<path stroke-width="0.5" stroke="black" d="M 50 38 118 35"/>
-<path stroke-width="20.0" stroke="black" d="M 50 38 34 20"/>
-<path stroke-width="0.5" stroke="black" d="M 50 38 35 98"/>
-<path stroke-width="20.0" stroke="black" d="M 20 88 35 98"/>
-<path stroke-width="0.5" stroke="black" d="M 35 98 50 38"/>
-<path stroke-width="20.0" stroke="black" d="M 118 35 126 20"/>
-<path stroke-width="8.857142857142858" stroke="black" d="M 388 290 420 282"/>
-<circle cx="178" cy="143" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="173" cy="128" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="180" cy="81" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="160" cy="80" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="126" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="118" cy="35" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="34" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="50" cy="38" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="20" cy="88" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="35" cy="98" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="46" cy="176" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="62" cy="172" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="121" cy="249" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="135" cy="236" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="217" cy="302" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="216" cy="285" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="323" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="314" cy="305" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="420" cy="282" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="388" cy="290" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<path stroke-width="20.0" stroke="black" d="M 395 320 396 303"/>
+<path stroke-width="20.0" stroke="black" d="M 256 40 271 42"/>
+<path stroke-width="0.5" stroke="black" d="M 256 40 189 64"/>
+<path stroke-width="20.0" stroke="black" d="M 183 47 189 64"/>
+<path stroke-width="0.5" stroke="black" d="M 189 64 256 40"/>
+<path stroke-width="20.0" stroke="black" d="M 189 64 183 47"/>
+<path stroke-width="0.5" stroke="black" d="M 189 64 126 114"/>
+<path stroke-width="20.0" stroke="black" d="M 116 99 126 114"/>
+<path stroke-width="0.5" stroke="black" d="M 126 114 189 64"/>
+<path stroke-width="20.0" stroke="black" d="M 126 114 116 99"/>
+<path stroke-width="0.5" stroke="black" d="M 126 114 74 168"/>
+<path stroke-width="20.0" stroke="black" d="M 58 162 74 168"/>
+<path stroke-width="0.5" stroke="black" d="M 74 168 126 114"/>
+<path stroke-width="20.0" stroke="black" d="M 74 168 58 162"/>
+<path stroke-width="0.5" stroke="black" d="M 74 168 36 224"/>
+<path stroke-width="8.857142857142858" stroke="black" d="M 20 245 36 224"/>
+<path stroke-width="0.5" stroke="black" d="M 256 40 328 33"/>
+<path stroke-width="20.0" stroke="black" d="M 271 42 256 40"/>
+<path stroke-width="0.5" stroke="black" d="M 328 33 256 40"/>
+<path stroke-width="20.0" stroke="black" d="M 328 33 335 20"/>
+<path stroke-width="20.0" stroke="black" d="M 396 303 395 320"/>
+<path stroke-width="0.5" stroke="black" d="M 396 303 407 234"/>
+<path stroke-width="20.0" stroke="black" d="M 420 246 407 234"/>
+<path stroke-width="0.5" stroke="black" d="M 407 234 396 303"/>
+<path stroke-width="20.0" stroke="black" d="M 407 234 420 246"/>
+<path stroke-width="0.5" stroke="black" d="M 407 234 404 158"/>
+<path stroke-width="20.0" stroke="black" d="M 419 158 404 158"/>
+<path stroke-width="0.5" stroke="black" d="M 36 224 74 168"/>
+<path stroke-width="0.5" stroke="black" d="M 404 158 407 234"/>
+<path stroke-width="0.5" stroke="black" d="M 404 158 380 84"/>
+<path stroke-width="20.0" stroke="black" d="M 394 71 380 84"/>
+<path stroke-width="0.5" stroke="black" d="M 380 84 404 158"/>
+<path stroke-width="20.0" stroke="black" d="M 380 84 394 71"/>
+<path stroke-width="0.5" stroke="black" d="M 380 84 328 33"/>
+<path stroke-width="20.0" stroke="black" d="M 335 20 328 33"/>
+<path stroke-width="0.5" stroke="black" d="M 328 33 380 84"/>
+<path stroke-width="20.0" stroke="black" d="M 404 158 419 158"/>
+<path stroke-width="8.857142857142858" stroke="black" d="M 36 224 20 245"/>
+<circle cx="395" cy="320" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="396" cy="303" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="246" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="407" cy="234" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="419" cy="158" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="404" cy="158" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="394" cy="71" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="380" cy="84" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="335" cy="20" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="328" cy="33" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="271" cy="42" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="256" cy="40" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="183" cy="47" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="189" cy="64" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="116" cy="99" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="126" cy="114" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="58" cy="162" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="74" cy="168" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="245" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="36" cy="224" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 </svg>

@@ -26,11 +26,11 @@ def process_circuit(circuit_file: str, out_dir: str, clustering_function: Callab
 
         # generate svg
         sknetwork_graph = from_edge_list(graph_history[evolution].edge_list, weighted=True)
-        visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph")) # type: ignore
-        visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_w"), display_edge_weight=True) # type: ignore
+        visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph"), node_size=20) # type: ignore
+        visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_w"), node_size=20, display_edge_weight=True) # type: ignore
 
         if (evolution < len(labels_history)): # Last graph has no labels
             circuit = circuit.get_updated_circuit_by_labels(labels_history[evolution])
-            visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_l"), labels=labels_history[evolution]) # type: ignore
-            visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_wl"), labels=labels_history[evolution], display_edge_weight=True) # type: ignore
+            visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_l"), node_size=20, labels=labels_history[evolution]) # type: ignore
+            visualize_graph(sknetwork_graph, filename=join(visual_dir, "graph_wl"), node_size=20, labels=labels_history[evolution], display_edge_weight=True) # type: ignore
     return len(labels_history) # return actual runs

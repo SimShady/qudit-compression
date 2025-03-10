@@ -1,18 +1,18 @@
 <svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
-<path stroke-width="20.0" stroke="black" d="M 217 241 211 20"/>
-<path stroke-width="20.0" stroke="black" d="M 217 241 420 320"/>
-<path stroke-width="20.0" stroke="black" d="M 217 241 20 229"/>
-<path stroke-width="20.0" stroke="black" d="M 211 20 217 241"/>
-<path stroke-width="0.5" stroke="black" d="M 211 20 420 320"/>
-<path stroke-width="0.5" stroke="black" d="M 211 20 20 229"/>
-<path stroke-width="20.0" stroke="black" d="M 420 320 217 241"/>
-<path stroke-width="0.5" stroke="black" d="M 420 320 211 20"/>
-<path stroke-width="0.5" stroke="black" d="M 420 320 20 229"/>
-<path stroke-width="20.0" stroke="black" d="M 20 229 217 241"/>
-<path stroke-width="0.5" stroke="black" d="M 20 229 211 20"/>
-<path stroke-width="0.5" stroke="black" d="M 20 229 420 320"/>
-<circle cx="217" cy="241" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="211" cy="20" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="420" cy="320" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
-<circle cx="20" cy="229" r="7.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<path stroke-width="20.0" stroke="black" d="M 61 206 420 84"/>
+<path stroke-width="20.0" stroke="black" d="M 61 206 316 320"/>
+<path stroke-width="20.0" stroke="black" d="M 61 206 20 20"/>
+<path stroke-width="20.0" stroke="black" d="M 420 84 61 206"/>
+<path stroke-width="0.5" stroke="black" d="M 420 84 316 320"/>
+<path stroke-width="0.5" stroke="black" d="M 420 84 20 20"/>
+<path stroke-width="20.0" stroke="black" d="M 316 320 61 206"/>
+<path stroke-width="0.5" stroke="black" d="M 316 320 420 84"/>
+<path stroke-width="0.5" stroke="black" d="M 316 320 20 20"/>
+<path stroke-width="20.0" stroke="black" d="M 20 20 61 206"/>
+<path stroke-width="0.5" stroke="black" d="M 20 20 420 84"/>
+<path stroke-width="0.5" stroke="black" d="M 20 20 316 320"/>
+<circle cx="61" cy="206" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="420" cy="84" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="316" cy="320" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
+<circle cx="20" cy="20" r="20.0" style="fill:gray;stroke:black;stroke-width:1.0"/>
 </svg>

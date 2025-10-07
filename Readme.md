@@ -44,18 +44,18 @@ Here’s a step-by-step guide for someone who has never used Nix:
    During installation, allow **flakes** support if prompted (or enable experimentally).
 
 2. **Install direnv**
-   On many systems:
-   `sudo apt install direnv`   (e.g. on Debian/Ubuntu)
+   On many systems:<br/>
+   `sudo apt install direnv`   (e.g. on Debian/Ubuntu)<br/>
    `brew install direnv`       (on macOS with Homebrew)
 
-   Then add the `direnv` hook to your shell (e.g. in `.bashrc` or `.zshrc`):
-   `eval "$(direnv hook bash)"`
-   or for zsh:
+   Then add the `direnv` hook to your shell (e.g. in `.bashrc` or `.zshrc`):<br/>
+   `eval "$(direnv hook bash)"`<br/>
+   or for zsh:<br/>
    `eval "$(direnv hook zsh)"`
 
 3. **Allow the .envrc in this project**
-   After cloning the repo above, you’ll see a `.envrc`. You need to allow it:
-   `direnv allow`
+   After cloning the repo above, you’ll see a `.envrc`. You need to allow it:<br/>
+   `direnv allow`<br/>
    Doing so tells `direnv` you trust this `.envrc`.
 
 4. **Enter the Nix-powered shell**
